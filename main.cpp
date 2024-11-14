@@ -31,7 +31,7 @@ int main()
 {
     dog labrador = {2, "Rex", 30};
     dog spitz = {3, "Bobik", 5};
-    dog husky = {5, "Stiv", 23};
+    dog husky = {5, "Sharik", 23};
 
     int sizes_dogs = 3;
     dog *massiv = new dog[sizes_dogs]{labrador, spitz, husky};
