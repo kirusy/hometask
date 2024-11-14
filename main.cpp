@@ -30,7 +30,7 @@ void func(int sizes_dogs, const dog *massiv)
 int main()
 {
     dog labrador = {2, "Rex", 30};
-    dog spitz = {3, "Bobik", 5};
+    dog spitz = {3, "Archi", 5};
     dog husky = {5, "Sharik", 23};
 
     int sizes_dogs = 3;
